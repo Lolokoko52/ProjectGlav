@@ -8,6 +8,7 @@
 bot = telebot.TeleBot('6431576369:AAGEZw6_k-FM6MwxlohYVv6v2CoXdfMPTQg')
 ```
 Я решил назвать своего бота: **@CoolRooleBot**. А выглядит он так:
+
 ![alt text](image-2.png)
 
 В моей проекте я создал лишь 2 команды, которые мой бот может обрабатывать:
